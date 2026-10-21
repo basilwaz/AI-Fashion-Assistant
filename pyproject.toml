@@ -1,0 +1,6 @@
+[project]
+name = "ai-fashion-assistant"
+version = "0.1.0"
+description = "ASE 420 sample outfit prototype"
+requires-python = ">=3.11"
+dependencies = []
